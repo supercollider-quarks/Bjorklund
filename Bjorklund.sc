@@ -13,7 +13,7 @@ Bjorklund {
 	//--private
 	*prFromArray {|arr|
 		var a, b;
-		#a, b= this.prSplit(arr);
+		#a, b= this.prSplit(arr);	//#a, b= arr.separate(_ != _); //optional simplification by jhr
 		if(b.size>1 and:{a.size>0}, {
 			^this.prFromArray(this.prLace(a, b));
 		}, {
