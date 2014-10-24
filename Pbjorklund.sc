@@ -1,6 +1,6 @@
 //redFrik
 
-//--related: Bjorklund
+//--related: Bjorklund, Pbjorklund2
 
 Pbjorklund : Pattern {
 	var <>k= 4, n= 8, <>length= inf, offset= 0;

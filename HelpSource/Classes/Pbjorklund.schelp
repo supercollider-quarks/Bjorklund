@@ -1,7 +1,7 @@
 CLASS:: Pbjorklund
 SUMMARY:: Euclidean Algorithm for generating traditional musical rhythms
 CATEGORIES:: Streams-Patterns-Events>Patterns>List
-RELATED:: Classes/Bjorklund
+RELATED:: Classes/Bjorklund, Classes/Bjorklund2, Classes/Pbjorklund2
 
 DESCRIPTION::
 After an algorithm by E. Bjorklund. See paper by Godfried Toussaint.

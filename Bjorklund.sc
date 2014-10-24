@@ -1,6 +1,6 @@
 //redFrik
 
-//--related: Pbjorklund
+//--related: Pbjorklund, Bjorklund2
 
 Bjorklund {
 	*new {|k, n|
@@ -9,7 +9,7 @@ Bjorklund {
 	*fromArray {|arr|
 		^this.prFromArray(arr.collect{|x| x.asCollection});
 	}
-	
+
 	//--private
 	*prFromArray {|arr|
 		var a, b;
